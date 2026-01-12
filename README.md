@@ -33,7 +33,7 @@ I am a Software Engineer passionate about building **intelligent, scalable syste
 ---
 
 ### 📈 GitHub Stats
-![Arunim's Stats](https://github-readme-stats.vercel.app/api?username=ArunimSamudra&show_icons=true&theme=dark)
+![Arunim's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ArunimSamudra&show_icons=true&theme=dark)
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/arunim-samudra](https://linkedin.com/in/arunim-samudra) 
