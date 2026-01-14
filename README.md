@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arunim Samudra
+# 👋 Hi, I'm Arunim
 
 ### **Software Engineer | AI & Scalable Systems**
 I am a Software Engineer passionate about building **intelligent, scalable systems** that bridge the gap between machine learning research and real-world impact. My expertise lies in designing **backend architectures**, **multi-agent workflows**, and **inference optimizations** that bring AI into production environments.
